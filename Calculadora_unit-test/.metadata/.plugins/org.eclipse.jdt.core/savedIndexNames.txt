@@ -1,0 +1,4 @@
+INDEX VERSION 1.132+C:\Users\logonrmlocal\Desktop\Calculadora_unit-test\.metadata\.plugins\org.eclipse.jdt.core
+2329519382.index
+3838006238.index
+1865797976.index
